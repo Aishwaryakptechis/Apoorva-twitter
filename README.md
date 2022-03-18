@@ -1,2 +1,1 @@
-# Apoorva-twitter
-twitter clone
+# Sample-Twitter
